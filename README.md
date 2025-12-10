@@ -7,9 +7,9 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 ---
 
 ## 🔹 About Me
-- 🎓 Master of Science in Information Technology (Business Analytics) – Southern New Hampshire University  
-- 💼 Current Role: Business Analyst at **Saayam For All** (Remote, San Jose, CA)  
-- 🌐 Previous Experience: Business Analyst at **Tata Consultancy Services** 
+- 🎓 MS in Information Technology (Business Analytics) — Southern New Hampshire University
+- 💼 Business Analyst @ **Saayam For All** (Remote, San Jose, CA)  
+- 🏢 Forner Business Analyst @ **Tata Consultancy Services** 
 - 🛠 Tools & Technologies: Python, SQL, R, Power BI, Tableau, Snowflake, AWS, Git/GitHub  
 - ⚡ Interests: Data Visualization, Predictive Analytics, Cloud Computing, Process Automation  
 
@@ -45,7 +45,7 @@ I contribute to projects involving:
 ## 📫 Connect with Me
 - 📧 Email: [pranaibasava@gmail.com](mailto:pranaibasava@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/pranaibasava](https://www.linkedin.com/in/pranaibasava)  
-- GitHub: [github.com/PranaiBasava](https://github.com/PranaiBasava)  
+- 🐙 GitHub: [github.com/PranaiBasava](https://github.com/PranaiBasava)  
 
 ---
 
